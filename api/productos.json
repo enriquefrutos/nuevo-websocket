@@ -1,0 +1,38 @@
+[
+   {
+      "title": "shampoo",
+      "price": 5500,
+      "thumbnail": "https://images.ctfassets.net/jdgtuh2uadx0/U_BLXbfNAWXzfnmEfhcT6h/165fe3ebc2a418fe2659e67eae16b3c6/image-pdp-hs_de_main_image-B4XAT-image?fm=webp&w=548",
+      "id": 1
+   },
+   {
+      "title": "toalla",
+      "price": 1000,
+      "thumbnail": "https://www.sueniolandia.com.ar/wp-content/uploads/2017/01/FELTOAG.jpg",
+      "id": 2
+   },
+   {
+      "title": "perfume",
+      "price": 22000,
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_624011-MLA43864415470_102020-O.webp",
+      "id": 3
+   },
+   {
+      "title": "aaaaaa",
+      "price": "123456",
+      "thumbnail": "a",
+      "id": 4
+   },
+   {
+      "title": "prueba",
+      "price": "1234",
+      "thumbnail": "https://essential.vtexassets.com/arquivos/ids/477929-1200-auto?v=637689705146100000&width=1200&height=auto&aspect=true",
+      "id": 5
+   },
+   {
+      "title": "aaaa",
+      "price": "1500",
+      "thumbnail": "",
+      "id": 6
+   }
+]
